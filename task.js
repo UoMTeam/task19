@@ -3,7 +3,7 @@ var numbers = new Array();
 function randomNum() {
     numbers = [];
     for (var i = 0; i < 60; i++) {
-        var n = Math.floor(Math.random() * 50) + 10;
+        var n = Math.floor(Math.random() * 90) + 10;
         numbers.push(n);
     }
     render();
