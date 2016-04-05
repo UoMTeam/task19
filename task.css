@@ -1,0 +1,30 @@
+button {
+    border-radius: 5px;
+}
+#rightin {
+    margin-right: 50px;
+}
+#rightout {
+    margin-right: 50px;
+}
+body>div {
+    width: 80%;
+    height: 200px;
+    margin: auto;
+}
+.number {
+    width: 10px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    display: inline-block;
+    margin-right: 3px;
+    text-align: center;
+    font-weight: bold;
+}
+.number span {
+    line-height: 50px;
+}
+.space {
+    padding: 10px;
+}
